@@ -5,7 +5,7 @@ public class Main{
         System.out.println(age);
         // we can also use different primitive types to store values for certain 
         byte hisAge = 10;
-        int viewsCount = 3_123456789;
+        long viewsCount = 3_123456789L;
 
     }
 } 
