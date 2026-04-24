@@ -6,6 +6,7 @@ public class Main{
         // we can also use different primitive types to store values for certain 
         byte hisAge = 10;
         long viewsCount = 3_123456789L;
+        float price = 5.67F;
 
     }
 } 
